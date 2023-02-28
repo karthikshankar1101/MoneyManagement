@@ -1,2 +1,2 @@
 # MoneyManagement
-Simple application built using angular capable of performing CRUD operations
+Simple web application developed using Angular, Spring-Boot and PostgreSQL capable of performing CRUD operations
